@@ -1,0 +1,17 @@
+first_name,last_name,email,handicap
+Andy,Midtbo,andy.midtbo@gmail.com,5
+Randy,Skube,skuber1979@gmail.com,15
+Dave,Redpath,davidjredpath@gmail.com,10
+Mike,Hutson,bmhuts@gmail.com,9
+Greg,Stier,greg.stier@solutiondesign.com,10
+Jeff,Ortman,jeff.ortman@solutiondesign.com,13
+Cully,Orstad,cully.orstad@solutiondesign.com,13
+David,Ellenberger,David.Ellenberger@solutiondesign.com,11
+Brien,Coffield,brien.coffield@solutiondesign.com,17
+Blake,Nelson,blake.nelson@solutiondesign.com,3
+John,Young,young.john18@gmail.com,18
+Michael,Symens,michael.symens@solutiondesign.com,9
+John,Grimm,john.grimm@solutiondesign.com,9
+Adam,Schroeder,Adam.Schroeder@solutiondesign.com,8
+Logan,Kelly,logan.kelly@solutiondesign.com,16
+Travis,Thompson,travis.thompson@solutiondesign.com,5

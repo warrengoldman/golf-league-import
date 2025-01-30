@@ -1,0 +1,29 @@
+﻿### Import Weeks
+POST http://localhost:8080/import/weeks
+Content-Type: application/json
+
+{
+  "fileName": "SDG Golf League 2024.xlsx",
+  "seasonId": 1,
+  "year": 2024
+}
+
+### Import matchups
+POST http://localhost:8080/import/matchups
+Content-Type: application/json
+
+{
+  "fileName": "SDG Golf League 2024.xlsx",
+  "seasonId": 1,
+  "year": 2024
+}
+
+### Import rounds
+POST http://localhost:8080/import/rounds
+Content-Type: application/json
+
+{
+  "fileName": "SDG Golf League Score Card 2024.xlsx",
+  "seasonId": 1,
+  "year": 2024
+}
